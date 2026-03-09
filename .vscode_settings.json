@@ -1,0 +1,13 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/fraud_env/bin/python",
+  "editor.formatOnSave": true,
+  "editor.rulers": [100],
+  "notebook.cellToolbarLocation": {
+    "default": "right"
+  },
+  "python.terminal.activateEnvironment": true,
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true
+  }
+}
